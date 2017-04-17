@@ -1,0 +1,6 @@
+{
+    "parent": "thejungle:block/jungleBrazier",
+    "textures": {
+        "litState": "thejungle:blocks/jungleBrazier/unlit"
+    }
+}

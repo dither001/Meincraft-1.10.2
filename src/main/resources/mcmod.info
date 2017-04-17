@@ -1,0 +1,16 @@
+[
+{
+  "modid": "thejungle",
+  "name": "Welcome to the Jungle",
+  "description": "An update mod for jungles",
+  "version": "1.10.2-1.0",
+  "mcversion": "1.10.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Salvestrom"],
+  "credits": "Me! + Thanks to numerous mod tutorials",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom": { "model": "thejungle:stoneMossySlab_lower" },
+        "half=top": { "model": "thejungle:stoneMossySlab_upper" }
+    }
+}

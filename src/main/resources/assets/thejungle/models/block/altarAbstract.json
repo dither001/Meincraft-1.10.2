@@ -1,0 +1,27 @@
+{
+    "__comment": "Model generated using MrCrayfish's Model Creator (http://mrcrayfish.com/modelcreator/)",
+    "textures": {
+        "particle": "thejungle:blocks/mossySmoothStone",
+        "0": "thejungle:blocks/altarAbstract/jungleAltarNorth",
+        "1": "thejungle:blocks/altarAbstract/jungleAltarEast",
+        "2": "thejungle:blocks/altarAbstract/jungleAltarSouth",
+        "3": "thejungle:blocks/altarAbstract/jungleAltarWest",
+        "4": "thejungle:blocks/altarAbstract/jungleAltarTop",
+        "5": "thejungle:blocks/altarAbstract/jungleAltarBottom"
+    },
+    "elements": [
+        {
+            "name": "Cube",
+            "from": [ 1.0, 1.0, 1.0 ], 
+            "to": [ 15.0, 15.0, 15.0 ], 
+            "faces": {
+                "north": { "texture": "#0", "uv": [ 0.0, 0.0, 14.0, 14.0 ] },
+                "east": { "texture": "#1", "uv": [ 0.0, 0.0, 14.0, 14.0 ] },
+                "south": { "texture": "#2", "uv": [ 0.0, 0.0, 14.0, 14.0 ] },
+                "west": { "texture": "#3", "uv": [ 0.0, 0.0, 14.0, 14.0 ] },
+                "up": { "texture": "#4", "uv": [ 0.0, 0.0, 14.0, 14.0 ] },
+                "down": { "texture": "#5", "uv": [ 0.0, 0.0, 14.0, 14.0 ] }
+            }
+        }
+    ]
+}

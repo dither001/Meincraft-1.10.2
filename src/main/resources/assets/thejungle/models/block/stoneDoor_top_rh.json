@@ -1,0 +1,7 @@
+{
+    "parent": "block/door_top_rh",
+    "textures": {
+        "bottom": "thejungle:blocks/stoneMossy_lower",
+        "top": "thejungle:blocks/stoneMossy_upper"
+    }
+}

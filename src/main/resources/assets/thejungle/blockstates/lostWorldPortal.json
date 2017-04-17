@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "axis=z": { "model": "thejungle:lostWorldPortal_ew" },
+        "axis=x": { "model": "thejungle:lostWorldPortal_ns" }
+    }
+}

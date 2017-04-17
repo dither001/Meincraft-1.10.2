@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "thejungle:jungleLadder" },
+        "facing=east":  { "model": "thejungle:jungleLadder", "y": 90 },
+        "facing=south": { "model": "thejungle:jungleLadder", "y": 180 },
+        "facing=west":  { "model": "thejungle:jungleLadder", "y": 270 }
+    }
+}

@@ -1,0 +1,67 @@
+{
+	"records.eyeT":
+	{
+		"category": "record",
+		 "sounds": [{
+				"name": "thejungle:records/records.eyeT",
+				"stream": true
+				}]
+	},
+
+	"saurohn.saurohnMock":
+	{
+		"category": "hostile",
+		"sounds": [
+		"thejungle:saurohn/saurohnMock1",
+		"thejungle:saurohn/saurohnMock2",
+		"thejungle:saurohn/saurohnMock3"
+			]
+			},
+	
+	"saurohn.saurohnHurt":
+	{
+		"category": "hostile",
+		"sounds": [
+		"thejungle:saurohn/saurohnHurt1",
+		"thejungle:saurohn/saurohnHurt2",
+		"thejungle:saurohn/saurohnHurt3",
+		"thejungle:saurohn/saurohnHurt4"
+			]
+			},
+
+	"saurohn.saurohnTalk":
+	{
+		"category": "hostile",
+		"sounds": [
+		"thejungle:saurohn/saurohnTalkHiss",
+		"thejungle:saurohn/saurohnTalkWassat1",
+		"thejungle:saurohn/saurohnTalkWassat2",
+		"thejungle:saurohn/saurohnTalkYes1",
+		"thejungle:saurohn/saurohnTalkYes2",
+		"thejungle:saurohn/saurohnTalkNo1",
+		"thejungle:saurohn/saurohnTalkNo2",
+		"thejungle:saurohn/saurohnTalkBah",
+		"thejungle:saurohn/saurohnTalkEr"
+			]
+			},
+
+	"saurohn.saurohnDeath":
+	{
+		"category": "hostile",
+		"sounds": [
+		"thejungle:saurohn/saurohnDeath1",
+		"thejungle:saurohn/saurohnDeath2"
+			]
+			},
+
+	"saurohn.saurohnLaugh":
+	{
+		"category": "hostile",
+		"sounds": [
+		"thejungle:saurohn/saurohnLaugh1",
+		"thejungle:saurohn/saurohnLaugh2",
+		"thejungle:saurohn/saurohnLaugh3"
+			]
+			}
+
+}

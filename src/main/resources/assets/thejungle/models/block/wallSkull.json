@@ -1,0 +1,61 @@
+{
+    "__comment": "Model generated using MrCrayfish's Model Creator (http://mrcrayfish.com/modelcreator/)",
+    "textures": {
+        "particle": "thejungle:blocks/mossySmoothStone",
+        "0": "thejungle:blocks/wallSkull/jawsidesfb",
+        "1": "thejungle:blocks/wallSkull/jawsides",
+        "2": "thejungle:blocks/wallSkull/jawbottom",
+        "3": "thejungle:blocks/wallSkull/jawtop",
+        "4": "thejungle:blocks/wallSkull/headback",
+        "5": "thejungle:blocks/wallSkull/headleft",
+        "6": "thejungle:blocks/wallSkull/headfront",
+        "7": "thejungle:blocks/wallSkull/headright",
+        "8": "thejungle:blocks/wallSkull/headbottom",
+        "9": "thejungle:blocks/wallSkull/headtop",
+        "10": "thejungle:blocks/wallSkull/capsidesfb",
+        "11": "thejungle:blocks/wallSkull/capsides",
+        "12": "thejungle:blocks/wallSkull/captop",
+        "13": "thejungle:blocks/wallSkull/capbottom"
+    },
+    "elements": [
+        {
+            "name": "jaw",
+            "from": [ 1.0, 0.0, 3.0 ], 
+            "to": [ 15.0, 6.0, 15.0 ], 
+            "faces": {
+                "north": { "texture": "#0", "uv": [ 0.0, 0.0, 14.0, 6.0 ] },
+                "east": { "texture": "#1", "uv": [ 0.0, 0.0, 12.0, 6.0 ] },
+                "south": { "texture": "#0", "uv": [ 0.0, 6.0, 14.0, 12.0 ] },
+                "west": { "texture": "#1", "uv": [ 0.0, 6.0, 12.0, 12.0 ] },
+                "up": { "texture": "#2", "uv": [ 0.0, 0.0, 14.0, 12.0 ] },
+                "down": { "texture": "#3", "uv": [ 0.0, 0.0, 14.0, 12.0 ] }
+            }
+        },
+        {
+            "name": "head",
+            "from": [ 2.0, 2.0, 1.0 ], 
+            "to": [ 14.0, 15.0, 13.0 ], 
+            "faces": {
+                "north": { "texture": "#4", "uv": [ 4.0, 3.0, 16.0, 16.0 ] },
+                "east": { "texture": "#5", "uv": [ 4.0, 3.0, 16.0, 16.0 ] },
+                "south": { "texture": "#6", "uv": [ 4.0, 3.0, 16.0, 16.0 ] },
+                "west": { "texture": "#7", "uv": [ 0.0, 3.0, 12.0, 16.0 ] },
+                "up": { "texture": "#8", "uv": [ 4.0, 0.0, 16.0, 12.0 ] },
+                "down": { "texture": "#9", "uv": [ 4.0, 0.0, 16.0, 12.0 ] }
+            }
+        },
+        {
+            "name": "cap",
+            "from": [ 1.0, 9.0, 0.0 ], 
+            "to": [ 15.0, 14.0, 15.0 ], 
+            "faces": {
+                "north": { "texture": "#10", "uv": [ 0.0, 0.0, 14.0, 5.0 ] },
+                "east": { "texture": "#11", "uv": [ 0.0, 5.0, 15.0, 10.0 ] },
+                "south": { "texture": "#10", "uv": [ 0.0, 5.0, 14.0, 10.0 ] },
+                "west": { "texture": "#11", "uv": [ 0.0, 0.0, 15.0, 5.0 ] },
+                "up": { "texture": "#12", "uv": [ 0.0, 0.0, 14.0, 15.0 ] },
+                "down": { "texture": "#13", "uv": [ 0.0, 0.0, 14.0, 15.0 ], "rotation": 180 }
+            }
+        }
+    ]
+}

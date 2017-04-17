@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "thejungle:climbingWeb" },
+        "facing=east":  { "model": "thejungle:climbingWeb", "y": 90 },
+        "facing=south": { "model": "thejungle:climbingWeb", "y": 180 },
+        "facing=west":  { "model": "thejungle:climbingWeb", "y": 270 }
+    }
+}

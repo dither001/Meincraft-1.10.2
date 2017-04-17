@@ -1,0 +1,123 @@
+achievement.junglefound=Welcome...
+achievement.junglefound.desc=Find a jungle.
+
+achievement.gorrbat=There's... something... in the mist...
+achievement.gorrbat.desc=???
+
+achievement.bookScaleI=Omnibusaurus Codex, Book I
+achievement.bookScaleI.desc=Locate and read from the first part of the Book of Scale. The Eastscale: Lord of the Living.
+
+achievement.cookStew=The Communist's Cookbook
+achievement.cookStew.desc=Follow the Eastscale recipie and cook-up some communal stew.
+
+achievement.villageFound=Explora El D'dora
+achievement.villageFound.desc=Find the remains of a large Saur-Ohn settlement.
+
+achievement.bookScaleII=Omnibusaurus Codex, Book II
+achievement.bookScaleII.desc=Read from the second part of the Book of Scale. The Westscale: Lord of the Damned.
+
+achievement.slainWall=Just Another Brick...
+achievement.slainWall.desc=Bring down the giant golem guarding El D'dora.
+
+achievement.harvestSapphire=Ooh, shiney! And creepy!
+achievement.harvestSapphire.desc=Gather a so-called "soul sapphire".
+
+achievement.craftInfObs=This can't be a good idea...
+achievement.craftInfObs.desc=Using ice, force the soul out of a soul-sapphire and into a block of obsidian.
+
+
+achievement.foundTemple=The Temple of the...
+achievement.foundTemple.desc=Find one of the Lost Temples of Mahkin.
+
+achievement.bookScaleIII=Omnibusaurus Codex, Book III
+achievement.bookScaleIII.desc=Read from the third part of the Book of Scale. The Northscale: Aegis of the Tyrant.
+
+achievement.takePortalLW=The Lost World
+achievement.takePortalLW.desc=Don the aegis armor and enter the ancestral dimension of the Saur'ohn.
+
+achievement.slainTyrant=The King is...
+achievement.slainTyrant.desc=Careful, he likes to nibble...
+
+achievement.bookScaleIV=Omnibusaurus Codex, Book IV
+achievement.bookScaleIV.desc=Read from the fourth and final part of the Book of Scale. The Southscale: Scales of Power.
+
+achievement.jungleBook=The Jungle Book
+achievement.jungleBook.desc=Mr. Kipling writes excedingly good books...
+
+
+enchantment.saurclout=Saur Clout
+
+entity.thejungle.StoneGolem.name=Stone Golem
+entity.thejungle.gorrbat.name=Gorrbat
+entity.thejungle.Lizardman.name=Saur-Ohn Scuffler
+entity.thejungle.LizardmanStalker.name=Saur-Ohn Stalker
+entity.thejungle.LizardmanWitchDoctor.name=Saur-Ohn Soothsayer
+entity.thejungle.MistSpider.name=Mist Weaver
+entity.thejungle.SacSkel.name=Ancient Sacrificed Skeleton
+entity.thejungle.SwampCrab.name=Swamp Crab
+entity.thejungle.theWall.name=The Wall
+entity.thejungle.lenny.name=The Tyrant
+
+generator.jungle=Meincraft: Jungle
+
+
+item.ancientSkull.name=Ancient Ritual Skull
+
+item.boneGrip.name=Bone Grip
+item.boneGripBow.name=Primitive Bow
+item.bookScale.name=The Book of Scale
+
+item.carvedBone.name=Carved Bone
+item.carvedBonehandle.name=Carved Bone Handle
+
+item.cerehelmet.name=Ceremonial Obsidian Helm
+item.cerechest.name=Ceremonial Obsidian Chestguard
+item.cerelegs.name=Ceremonial Obsidian Leggings
+item.cereboots.name=Ceremonial Obsidian Shinguards
+
+item.clobberer.name=The Clobberer
+item.rawCrabMeat.name=Raw Crab Meat
+item.decorativeSeal.name=Seal
+item.eyeT.name=The Eye of the Tyrant
+item.record.eyeT.desc=Salvestrom - Survivors
+
+item.infusedObsidian.name=Infused Obsidian
+
+item.thrownWeb.name=Slung Web
+
+item.mudBucket.name=Bucket o' Mud
+item.mudBucket.desc=Fer the making o' mud pies.
+
+item.sapphire.name=Sapphire
+item.stewJungle.name=Saur-Ohn Communal Stew
+item.stoneDoorItem.name=Ancient Stone Door
+item.swordBonehandle.name=Primitive Sword
+
+item.unadornedObBoots.name=Unadorned Obsidian Boots
+item.unadornedObChest.name=Unadorned Obsidian Chest
+item.unadornedObHelm.name=Unadorned Obsidian Helm
+item.unadornedObLegs.name=Unadorned Obsidian Legs
+
+itemGroup.JungleMod=Jungle Tab
+
+tile.ancientSkull.name=Ancient Ceremonial Skull
+tile.tyrantSkull.name=The Skull of the Saur'ohn Tyrant
+tile.wallSkull.name=The Wall
+
+tile.altarAbstract.name=Ritual Altar
+tile.fullScale.name=The Book of Scale
+tile.infusedObsidianBlock.name=Infused Obsidian Block
+tile.jungleBrazier.name=Jungle Brazier
+tile.jungleLadder.name=Rope Ladder
+tile.climbingWeb.name=Climmable Webbing
+tile.lostWorldPortal.name=Gateway of the Tyrant
+tile.oreSapphire.name=Sapphire Ore
+
+tile.mudBlock.name=Mud
+tile.ancientMossyBlock.name=Ancient Mossy Block
+tile.mossyStone.name=Moss Covered Stone
+tile.mossyCarved.name=Ancient Carved Stone
+tile.stoneMossySlab.mossy.name=Mossy Cobblestone Slab
+tile.stoneMossySlab.mossy_smooth.name=Mossy Smooth Slab
+tile.stoneMossyStairs.name=Mossy Cobblestone Stairs
+tile.mossyStoneSteps.name=Mossy Smooth Steps

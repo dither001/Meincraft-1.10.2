@@ -1,0 +1,28 @@
+{
+    "__comment": "Model generated using MrCrayfish's Model Creator (http://mrcrayfish.com/modelcreator/)",
+    "textures": {
+        "particle": "blocks/soul_sand",
+        "0": "thejungle:blocks/ancientSkull/ancientSkull2a",
+        "1": "thejungle:blocks/ancientSkull/ancientSkull1"
+    },
+    "elements": [
+        {
+            "name": "skull",
+            "from": [ 4.0, 0.0, 4.0 ], 
+            "to": [ 12.0, 8.0, 12.0 ],
+            "rotation": {
+                "origin": [8, 0, 8],
+                "axis": "y",
+                "angle": 22.5
+                },
+            "faces": {
+                "north": { "texture": "#1", "uv": [ 8.0, 8.0, 16.0, 16.0 ] },
+                "east": { "texture": "#1", "uv": [ 0.0, 8.0, 8.0, 16.0 ] },
+                "south": { "texture": "#0", "uv": [ 8.0, 8.0, 16.0, 16.0 ] },
+                "west": { "texture": "#0", "uv": [ 0.0, 8.0, 8.0, 16.0 ] },
+                "up": { "texture": "#1", "uv": [ 8.0, 0.0, 16.0, 8.0 ] },
+                "down": { "texture": "#0", "uv": [ 0.0, 0.0, 8.0, 8.0 ] }
+            }
+        }
+    ]
+}

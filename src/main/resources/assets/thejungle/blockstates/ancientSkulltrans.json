@@ -1,0 +1,40 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+      "transform": "forge:default-block",
+  
+      "textures": {
+        "particle": "blocks/soul_sand",
+        "0": "thejungle:blocks/ancientSkull/ancientSkull2a",
+        "1": "thejungle:blocks/ancientSkull/ancientSkull1"
+        }
+        
+        },
+        
+  "variants": {
+  "rotations": {
+    0: { "model": "thejungle:ancientSkull" },
+    4: { "model": "thejungle:ancientSkull", "transform": {"rotation": {"y": -90 }}},
+    "rotations=8": { "model": "thejungle:ancientSkull", "transform":  {"rotation": {"y": -180}}},
+    "rotations=12": { "model": "thejungle:ancientSkull", "transform": {"rotation": {"y": -270}}},
+
+    1: { "model": "thejungle:ancientSkull", "transform": "forge:default-block","transform": {"rotation": {"y": -22.5}}},
+    "rotations=5": {"model": "thejungle:ancientSkull", "transform": {"rotation": {"y": -112.5}}},
+    "rotations=9": {"model": "thejungle:ancientSkull", "transform": {"rotation": {"y": -202.5}}},
+    "rotations=13": {"model": "thejungle:ancientSkull", "transform": {"rotation": {"y": -292.5}}},
+
+     2: { "model": "thejungle:ancientSkull",
+      "transform": {"rotation": {"y": -45}
+      }},
+    "rotations=6": {"model": "thejungle:ancientSkull",  "transform": {"rotation": { "y": -135}}},
+    "rotations=10": {"model": "thejungle:ancientSkull", "transform": {"rotation": {  "y": -225}}},
+    "rotations=14": {"model": "thejungle:ancientSkull", "transform": {"rotation": {  "y": -315}}},
+
+    "rotations=3": {"model": "thejungle:ancientSkull", "transform": {"rotation": {"y": -67.5}}},
+    "rotations=7": { "model": "thejungle:ancientSkull", "transform": {"rotation": {"y": -157.5}}},
+    "rotations=11": {"model": "thejungle:ancientSkull", "transform": {"rotation": {  "y": -247.5}}},
+    "rotations=15": { "model": "thejungle:ancientSkull", "transform": {"rotation": {"y": -337.5}}}
+   
+    }
+  }
+}

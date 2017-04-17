@@ -1,0 +1,6 @@
+{
+    "parent": "thejungle:item/boneGripBow",
+    "textures": {
+        "layer0": "thejungle:items/boneGripBow_pull_0"
+    }
+}

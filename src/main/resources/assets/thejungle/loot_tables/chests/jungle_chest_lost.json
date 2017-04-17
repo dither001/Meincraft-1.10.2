@@ -1,0 +1,105 @@
+{
+"pools": [
+		{
+			"name": "first",
+			"rolls": {
+				"min": 3,
+				"max": 5
+			},
+			"entries": [
+				{
+					"type": "loot_table",
+					"name": "thejungle:chests/jungle_chest",
+					"weight": 60
+				},
+				{
+                    "type": "item",
+                    "name": "minecraft:book",
+                    "functions": [
+                        {
+                            "function": "enchant_randomly",
+                            "enchantments": [
+                                "thejungle:saurclout"
+                            ]
+                        }
+                    ],
+                    "weight": 6
+                },
+				{
+					"type": "item",
+					"name": "thejungle:bookScale",
+					"weight": 17,
+					"functions": [
+						{
+							"function": "set_bookId",
+							"bookId": 370
+						}
+					]
+				}
+			]
+		},
+		{
+		"name": "second",
+		"rolls": 1,
+		"entries": [
+				{
+				"type": "empty",
+				"weight": 83
+				},
+                {
+                    "type": "item",
+                    "name": "thejungle:bookScale",
+                    "weight": 14,
+                    "functions": [
+                        {
+                            "function": "set_bookId",
+                            "bookId": 369
+                        }
+                    ]
+                }
+            ]		
+		},
+		{
+        "name": "third",
+        "rolls": 1,
+        "entries": [
+                {
+                "type": "empty",
+                "weight": 83
+                },
+                {
+                    "type": "item",
+                    "name": "thejungle:bookScale",
+                    "weight": 11,
+                    "functions": [
+                        {
+                            "function": "set_bookId",
+                            "bookId": 368
+                        }
+                    ]
+                }
+            ]
+        },
+                {
+        "name": "fourth",
+        "rolls": 1,
+        "entries": [
+                {
+                "type": "empty",
+                "weight": 83
+                },
+                {
+                    "type": "item",
+                    "name": "thejungle:bookScale",
+                    "weight": 9,
+                    "functions": [
+                        {
+                            "function": "set_bookId",
+                            "bookId": 367
+                        }
+                    ]
+                }
+            ] 
+        }
+	]
+}

@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "normal": { "model": "thejungle:mossySmoothStone" },
+        "all": { "model": "thejungle:mossySmoothStone" }
+        
+    }
+}

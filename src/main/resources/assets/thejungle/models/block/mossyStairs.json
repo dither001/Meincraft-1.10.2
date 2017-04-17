@@ -1,0 +1,8 @@
+{
+    "parent": "block/stairs",
+    "textures": {
+        "bottom": "thejungle:blocks/stoneMossy",
+        "top": "thejungle:blocks/stoneMossy",
+        "side": "thejungle:blocks/stoneMossy"
+    }
+}

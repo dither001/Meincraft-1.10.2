@@ -1,0 +1,37 @@
+{
+    "__comment": "Model generated using MrCrayfish's Model Creator (http://mrcrayfish.com/modelcreator/)",
+    "textures": {
+        "particle": "thejungle:blocks/tyrantSkull/tyrantHeadSides",
+        "0": "thejungle:blocks/tyrantSkull/tyrantHead",
+        "1": "thejungle:blocks/tyrantSkull/tyrantHeadSides",
+        "2": "thejungle:blocks/tyrantSkull/tyrantSnout"
+    },
+    "elements": [
+        {
+            "name": "head",
+            "from": [ 5.0, 0.0, 1.0 ], 
+            "to": [ 11.0, 8.0, 7.0 ], 
+            "faces": {
+                "north": { "texture": "#0", "uv": [ 6.0, 6.0, 12.0, 14.0 ] },
+                "east": { "texture": "#1", "uv": [ 12.0, 0.0, 6.0, 8.0 ] },
+                "south": { "texture": "#0", "uv": [ 0.0, 6.0, 6.0, 14.0 ] },
+                "west": { "texture": "#1", "uv": [ 6.0, 0.0, 12.0, 8.0 ] },
+                "up": { "texture": "#0", "uv": [ 0.0, 0.0, 6.0, 6.0 ] },
+                "down": { "texture": "#0", "uv": [ 6.0, 0.0, 12.0, 6.0 ] }
+            }
+        },
+        {
+            "name": "snout",
+            "from": [ 6.0, 0.0, 6.0 ], 
+            "to": [ 10.0, 7.0, 14.0 ], 
+            "faces": {
+                "north": { "texture": "#2", "uv": [ 0.0, 9.0, 4.0, 16.0 ] },
+                "east": { "texture": "#1", "uv": [ 8.0, 8.0, 16.0, 15.0 ] },
+                "south": { "texture": "#2", "uv": [ 0.0, 0.0, 4.0, 7.0 ] },
+                "west": { "texture": "#1", "uv": [ 0.0, 8.0, 8.0, 15.0 ] },
+                "up": { "texture": "#2", "uv": [ 4.0, 8.0, 8.0, 16.0 ] },
+                "down": { "texture": "#2", "uv": [ 4.0, 0.0, 8.0, 8.0 ] }
+            }
+        }
+    ]
+}

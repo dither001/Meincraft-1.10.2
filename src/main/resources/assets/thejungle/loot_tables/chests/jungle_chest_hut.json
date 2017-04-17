@@ -1,0 +1,42 @@
+{
+"pools": [
+		{
+			"name": "first",
+			"rolls": {
+				"min": 2,
+				"max": 3
+			},
+			"entries": [
+				{
+					"type": "loot_table",
+					"name": "thejungle:chests/jungle_chest",
+					"weight": 60
+				},
+				                {
+                    "type": "item",
+                    "name": "minecraft:book",
+                    "functions": [
+                        {
+                            "function": "enchant_randomly",
+                            "enchantments": [
+                                "thejungle:saurclout"
+                            ]
+                        }
+                    ],
+                    "weight": 2
+                },
+				{
+					"type": "item",
+					"name": "thejungle:bookScale",
+					"weight": 12,
+					"functions": [
+						{
+							"function": "set_bookId",
+							"bookId": 367
+						}
+					]
+				}
+			]
+		}
+	]
+}

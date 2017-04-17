@@ -1,0 +1,26 @@
+{
+  "variants": {
+    "rotations=0": {  "model": "thejungle:ancientSkull"},
+    "rotations=4": {  "model": "thejungle:ancientSkull", "y": 90 },
+    "rotations=8": {  "model": "thejungle:ancientSkull", "y": 180},
+    "rotations=12": {  "model": "thejungle:ancientSkull", "y": 270},
+
+    "rotations=1": {  "model": "thejungle:ancientSkull-225"},
+    "rotations=5": {  "model": "thejungle:ancientSkull-225", "y": 90},
+    "rotations=9": {  "model": "thejungle:ancientSkull-225", "y": 180},
+    "rotations=13": {  "model": "thejungle:ancientSkull-225", "y": 270},
+
+    "rotations=2": {  "model": "thejungle:ancientSkull45"},
+    "rotations=6": {  "model": "thejungle:ancientSkull45", "y": 90},
+    "rotations=10": {  "model": "thejungle:ancientSkull45", "y": 180},
+    "rotations=14": {  "model": "thejungle:ancientSkull45", "y": 270},
+
+
+    "rotations=3": {  "model": "thejungle:ancientSkull225", "y": 90},
+    "rotations=7": {  "model": "thejungle:ancientSkull225", "y": 180},
+    "rotations=11": {  "model": "thejungle:ancientSkull225", "y": 270},
+    "rotations=15": {  "model": "thejungle:ancientSkull225"}
+    
+    
+  }
+}

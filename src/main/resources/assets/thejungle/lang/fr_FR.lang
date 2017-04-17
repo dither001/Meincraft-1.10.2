@@ -1,0 +1,125 @@
+﻿achievement.junglefound=Bienvenue...
+achievement.junglefound.desc=Trouver une Jungle.
+
+achievement.gorrbat=Est-ce que... il y a quelque chose... dans le brouillard...
+achievement.gorrbat.desc=???
+
+achievement.bookScaleI=Codex de l'Omnibusaurus, Livre I
+achievement.bookScaleI.desc=Trouver et lire la première partie du Livre des Ecailles. Le Mange-Ecailles: Seigneur de Vie.
+
+achievement.cookStew=Livre de Recettes du Communiste
+achievement.cookStew.desc=Suivre la recette du Mange-Ecailles et cuire des Soupe de Communion.
+
+achievement.villageFound=Explora El D'dora
+achievement.villageFound.desc=Trouver les restes d'un grand hameau Saur-Hon.
+
+achievement.bookScaleII=Codex de l'Omnibusaurus, Livre II
+achievement.bookScaleII.desc=Lire la deuxième partie du Livre des Ecailles. L'Ouestécaille: Seigneur de la Damnation.
+
+achievement.slainWall=Une autre brique...
+achievement.slainWall.desc=Faire descendre le Golem Géant qui protège El D'dora.
+
+achievement.harvestSapphire=Ooh, shiney! And creepy!
+achievement.harvestSapphire.desc=Trouver la prétendue "Ame Saphir".
+
+achievement.craftInfObs=Ce n'est certainement pas une bonne idée...
+achievement.craftInfObs.desc=Avec de la glace, forcer l'âme à sortir de l'Ame Saphir et à rentrer dans un bloc d'obsidienne.
+
+
+achievement.foundTemple=Le temple de...
+achievement.foundTemple.desc=Trouver l'un des grands temple de Mahkin.
+
+achievement.bookScaleIII=Codex de l'Omnibusaurus, Livre III
+achievement.bookScaleIII.desc=Lire la troisième partie du Livre des Ecailles. La Nordécaille: Egide du Tyran.
+
+achievement.takePortalLW=Le Monde Perdu
+achievement.takePortalLW.desc=Sacrifier l'Armure d'Egide et entrer dans la dimension ancestrale des Saur-Hon.
+
+achievement.slainTyrant=Le Roi Est...
+achievement.slainTyrant.desc=Attention, il aime grignoter...
+
+achievement.bookScaleIV=Codex de l'Omnibusaurus, Livre IV
+achievement.bookScaleIV.desc=Lire la quatrième et dernière partie du Livre des Ecailles. La Sudécaille: Ecailles du Pouvoir.
+
+achievement.jungleBook=Le Livre de la Jungle
+achievement.jungleBook.desc=Mr. Kipling a écrit d'excellents livres...
+
+
+enchantment.saurclout=Pouvoir des Saur
+
+entity.thejungle.StoneGolem.name=Golem de Pierre
+entity.thejungle.gorrbat.name=Chauve-Souris Sanglante
+entity.thejungle.Lizardman.name=Saur-Ohn Bagareur
+entity.thejungle.LizardmanStalker.name=Saur-Ohn Collant
+entity.thejungle.LizardmanWitchDoctor.name=Saur-Ohn Druide
+entity.thejungle.MistSpider.name=Tisseuse de Brouillard
+entity.thejungle.SacSkel.name=Ancient Squelette Sacrifié
+entity.thejungle.SwampCrab.name=Vasard
+entity.thejungle.theWall.name=Le Mur
+entity.thejungle.lenny.name=Le Tyran
+
+generator.jungle=Meincraft: Jungle
+
+
+item.ancientSkull.name=Crâne d'ancien rituel
+
+item.boneGrip.name=Poignée en os
+item.boneGripBow.name=Arc Primitif
+item.bookScale.name=Le Livre des Ecailles
+
+item.carvedBone.name=Os Sculpté
+item.carvedBonehandle.name=Poignée en Os Sculpté
+
+item.cerehelmet.name=Casque en Obsidienne de Cérémonie
+item.cerechest.name=Plastron en Obsidienne de Cérémonie
+item.cerelegs.name=Jambières en Obsidienne de Cérémonie
+item.cereboots.name=Bottes en Obsidienne de Cérémonie
+
+item.clobberer.name=The Démolisseur
+item.rawCrabMeat.name=Viande de Crabe Crue
+item.decorativeSeal.name=Sceau
+item.eyeT.name=L'Oeil du Tyran
+item.record.eyeT.desc=Salvestrom - Survivors
+
+item.infusedObsidian.name=Obsidienne Infusée
+
+item.thrownWeb.name=Toile d'Araignée Jetable
+
+item.mudBucket.name=Seau de Boue
+item.mudBucket.desc=Fabriquer une tarte à la boue.
+
+item.sapphire.name=Saphir
+item.stewJungle.name=Soupe de Communion Saur-Ohn
+item.stoneDoorItem.name=Porte de Pierre Ancienne
+item.swordBonehandle.name=Epée Primitive
+
+item.unadornedObBoots.name=Bottes en Obsidienne Non-Ornée
+item.unadornedObChest.name=Plastron en Obsidienne Non-Ornée
+item.unadornedObHelm.name=Casque en Obsidienne Non-Ornée
+item.unadornedObLegs.name=Jambières en Obsidienne Non-Ornée
+
+itemGroup.JungleMod=Onglet Jungle
+
+tile.ancientSkull.name=Crâne d'ancien rituel
+tile.tyrantSkull.name=Le Crâne du Tyran des Saur'ohn 
+tile.wallSkull.name=Le Mur
+
+tile.altarAbstract.name=Autel de Rituel
+tile.fullScale.name=Le Livre des Ecailles
+tile.infusedObsidianBlock.name=Bloc d'Obsidienne Infusée
+tile.jungleBrazier.name=Brasero de la Jungle
+tile.jungleLadder.name=Echelle en Corde
+tile.climbingWeb.name=Toile d'Araignée Escaladable
+tile.lostWorldPortal.name=Porte du Tyran
+tile.oreSapphire.name=Minerai de Saphir
+
+tile.mudBlock.name=Boue
+tile.ancientMossyBlock.name=Bloc Mousseux Ancien
+tile.mossyStone.name=Pierre Moussue
+tile.mossyCarved.name=Ancienne Pierre Sculpté
+
+tile.stoneMossySlab.mossy.name=Dalle de Pierre Moussue
+tile.stoneMossySlab.mossy_smooth.name=Dalle de Pierre Moussue Lisse
+tile.stoneMossyStairs.name=Escalier de Pierre Moussue
+tile.mossyStoneSteps.name=Mossy Smooth Steps
+
